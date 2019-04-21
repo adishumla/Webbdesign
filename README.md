@@ -1,0 +1,1 @@
+Nex tutorial is 024 Tuples with Python
